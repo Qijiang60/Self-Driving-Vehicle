@@ -9,7 +9,7 @@ Praful is volunteering his car (2004 Toyota Corolla!) and it'd be great if we co
 > We're starting off attaching sensors to my car and from a past life I have a bunch of computers specifically designed for car installations. 
 Additionally, I have a bunch of Linux-compatible wireless cards from AT&T (though you'll have to activate them under your own plan). 
 You may choose to collect data without a connection and upload it to the site later so we can all use the data to develop code.
-- Praful
+-- Praful
 
 There will be no automated vehicle control in the initial stages. 
 As we become more confident in our approach, we will take it for a test spin in a closed off parking lot. 
