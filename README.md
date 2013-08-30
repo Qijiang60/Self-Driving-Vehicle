@@ -42,9 +42,9 @@ Launched a discourse site: [Discuss](http://www.sherecar.org)
 
 06 June, 2013
 
-Had a successful Meetup! [First of Many](http://blog.derivatived.com/posts/First-of-Many)
+Had first successful Meetup! [First of Many](http://blog.derivatived.com/posts/First-of-Many)
 
-23 April, 2013
+26 April, 2013
 
 A meetup group in NJ has been formed at [Self Driving Vehicle Hackers](http://meetup.com/Self-Driving-Vehicle).
 
