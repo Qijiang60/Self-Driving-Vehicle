@@ -4,13 +4,13 @@ Self Driving Car is a small project with a big ambition. We aim to be competitiv
 
 Self Driving Car is created and maintained by [Self Driving Vehicle Hackers](http://meetup.com/Self-Driving-Vehicle).
 
-Praful is volunteering his car (2004 Toyota Corolla!) and it'd be great if we could get others to volunteer as well. 
+[dasickis](http://www.github.com/dasickis) is volunteering his car (2004 Toyota Corolla!) and it'd be great if we could get others to volunteer as well. 
 
 > We're starting off attaching sensors to my car and from a past life I have a bunch of computers specifically designed for car installations. 
 Additionally, I have a bunch of Linux-compatible wireless cards from AT&T (though you'll have to activate them under your own plan). 
 You may choose to collect data without a connection and upload it to the site later so we can all use the data to develop code.
 
-> -- Praful
+> -- [dasickis](http://www.github.com/dasickis)
 
 There will be no automated vehicle control in the initial stages. 
 As we become more confident in our approach, we will take it for a test spin in a closed off parking lot. 
@@ -59,7 +59,7 @@ Thanks!
 
 ## Authors
 
-**Praful Mathur**
+**dasickis**
 
 + [http://twitter.com/dasickis](http://twitter.com/dasickis)
 + [http://github.com/dasickis](http://github.com/dasickis)
