@@ -33,7 +33,7 @@ Added team to [Julython](http://julython.org)!
 
 10 June, 2013
 
-Launched a discourse site: [Discuss](http://discuss.discourse.com)
+Launched a discourse site: [Discuss](http://www.sherecar.org)
 
 06 June, 2013
 
