@@ -1,8 +1,8 @@
 <img src="http://photos3.meetupstatic.com/photos/event/8/4/a/global_228302122.jpeg">
 
-Self Driving Car is a small project with a big ambition. We aim to be competitive with Google's Self Driving Car. We're doing it open source and cheaper!
+Self Driving Vehicle is a small project with a big ambition. We aim to build a Self Driving Vehicle (SDV) on par with Google's efforts. We're doing it open source and cheaper!
 
-Self Driving Car is created and maintained by [Self Driving Vehicle Hackers](http://meetup.com/Self-Driving-Vehicle).
+SDV is created and maintained by [SDV Hackers](http://meetup.com/Self-Driving-Vehicle).
 
 [dasickis](http://www.github.com/dasickis) is volunteering his car (2004 Toyota Corolla!) and it'd be great if we could get others to volunteer as well. 
 
@@ -16,6 +16,11 @@ There will be no automated vehicle control in the initial stages.
 As we become more confident in our approach, we will take it for a test spin in a closed off parking lot. 
 
 It would be awesome if we can get it to drive on the highway (with a human acting as a driver instructor with a separate brake).
+
+## Project Overview
+
+Currently we're working an overview of the application architecture. At this point, we're stubbing out all the methods and writing logic in conceptual comments. Please fork the project and pull-request your changes. Any problems, please open up issues so we can resolve them quickly. 
+
 
 ## Quick start
 
