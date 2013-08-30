@@ -11,11 +11,13 @@ class Car:
     # Use computer vision to detect the lanes around the car.
     
   def get_pending_collisions(self):
-    # Use computer vision to detect all objects moving toward the car (relative to the car's speed), and their relative speeds
+    # Use computer vision to detect all objects moving toward the car (relative to the car's speed), 
+    # and their relative speeds
     return collisions
   
   def get_current_direction(self):
-    # Returns the direction that the car is currently going in, as well as the forces being applied wherever relevant
+    # Returns the direction that the car is currently going in, as well as the forces 
+    # being applied wherever relevant
     return direction
   
   def modify_direction_according_to_lanes(direction, lanes):
